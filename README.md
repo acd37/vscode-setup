@@ -18,7 +18,7 @@ To install the following packages, click on the Extensions tab in the left hand 
 ## Theme
 
 -   Dracula Official (dracula-theme.theme-dracula)
-    -   CMD+Shift+P
+    -   Hit `CMD+Shift+P`
     -   Type `Theme`
     -   Open: `Preferences: Color Theme`
     -   Enable `Dracula Soft`
